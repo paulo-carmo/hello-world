@@ -1,2 +1,4 @@
-# hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub! (https://guides.github.com/activities/hello-world/)
+Hi. My name is Paulo Carmo.
+This Hello World repository is nothing to be shared with the world but a first step for me to be able to master Github, being the result ofMe following this guide: https://guides.github.com/activities/hello-world/.
+Tchuss,
+Paulo Carmo.
